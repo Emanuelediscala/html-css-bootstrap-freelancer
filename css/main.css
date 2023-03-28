@@ -8,3 +8,36 @@ header a {
     text-decoration: none;
     color: white;
 }
+.bglightgreen {
+    background-color:#1abc9c;
+}
+.cWhite {
+    color: white;
+}
+.bgWhite {
+    background-color:  white;
+}
+h1 {
+    color: white;
+}
+.h350px {
+    height: 350px;
+}
+.h400px {
+    height: 400px;
+}
+.h200px {
+    height: 200px;
+}
+.h100 {
+    height: 100%;
+}
+.h10px {
+    height: 10px;
+}
+.bgBlue {
+    background-color: blue;
+}
+.container-xl > h1 {
+    color: black;
+}
